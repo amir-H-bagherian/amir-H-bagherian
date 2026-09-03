@@ -2,7 +2,13 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="auto" height="auto">
 
-I'm a Master's student at Sharif University of Technology.
+I'm a M.Sc student @ Sharif University of Technology. I'm a member of Image Processing Lab (IPL).<br><br> My research interests:
+- Text To Image Generation
+- Text To Image Editing
+- Diffusion Models
+- Compositionality & Alignment
+- Image Processing
+- Computer Vision
 
 ## 🔧 Technologies & Tools
 
