@@ -37,7 +37,7 @@ Sharif University of Technology · Sep 2024 – Present
 Improving compositionality in generated images through inference-time modifications of sampling process.
 
 ### Image Processing Project: Improving Perception-Oriented Single-Image Super-Resolution
-Improved SROOE performance by augmenting loss terms using image transformations learned during the course.
+Improved SROOE performance by augmenting loss terms using image transformations learned during the course. You can see the [GitHub Repository](https://github.com/amir-H-bagherian/Digital-Image-Processing-Course-Project).
 
 ### Computer Vision Project: Adversarial Attacks on PointNet
 Investigated adversarial attacks against PointNet on the ModelNet dataset and evaluated their impact on model predictions.
